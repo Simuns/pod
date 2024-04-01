@@ -1,1 +1,4 @@
 server/src/db/crud.db
+client/node_modules
+server/node_modules
+server/.env
